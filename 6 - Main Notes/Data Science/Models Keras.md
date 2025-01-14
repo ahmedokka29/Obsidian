@@ -1,6 +1,6 @@
 2024-07-21 - 00:22
 Status:
-Tags: [[sequential]] [[functional]] [[keras]]
+Tags: [[sequential]] [[functional]] [[keras]] [[Data Science]]
 # Models Keras
 
 In Keras, the Sequential and Functional APIs provide two different ways to build neural network models. Here's a breakdown of the differences between them:

@@ -1,6 +1,6 @@
 2024-07-20 - 23:50
 Status: 
-Tags: [[losses]] [[keras]]
+Tags: [[losses]] [[keras]] [[Data Science]]
 # Cross Entropy
 
 The terms "categorical cross entropy," "sparse categorical cross entropy," and "cross entropy" are often used in the context of neural networks and classification tasks. Here’s a detailed breakdown of the differences:

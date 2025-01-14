@@ -1,6 +1,6 @@
 2024-07-05 - 14:59
 Status:
-Tags: [[clustering]] [[Agglomerative Clustering]] [[Divisive Clustering]]
+Tags: [[clustering]] [[Agglomerative Clustering]] [[Divisive Clustering]] [[Data Science]]
 # Hierarchical Clustering
 
 Hierarchical clustering is a general family of clustering algorithms that build nested clusters by merging or splitting them successively. This hierarchy of clusters is represented as a tree (or dendrogram). The root of the tree is the unique cluster that gathers all the samples, the leaves being the clusters with only one sample.

@@ -1,6 +1,6 @@
 2024-08-07 - 21:27
 Status:
-Tags: [[RegEx]] [[NLP]]
+Tags: [[RegEx]] [[NLP]] [[Data Science]]
 # RegEx
 
 Task 1

@@ -1,5 +1,7 @@
-# 8 Key Settings #concept 
-
+2025-01-14 - 18:18
+Status:
+Tags: [[Obsidian markdown]]
+# 8 Key Settings
 Editor
 1. Spell Check
 
@@ -12,3 +14,5 @@ File
 1. Deleted Files
 2. **Always Update Internal Links**
 
+
+# Reference

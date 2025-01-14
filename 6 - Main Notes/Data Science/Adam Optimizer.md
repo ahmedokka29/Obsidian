@@ -1,6 +1,6 @@
 2024-07-21 - 00:33
 Status:
-Tags: [[optimizers]] 
+Tags: [[optimizers]] [[Data Science]]
 # Adam Optimizer
 
 The Adam optimizer is an algorithm for gradient-based optimization of stochastic objective functions. It's widely used in machine learning and deep learning due to its efficiency and low memory requirements. Adam stands for **Adaptive Moment Estimation**.

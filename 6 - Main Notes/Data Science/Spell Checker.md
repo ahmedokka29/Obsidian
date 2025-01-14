@@ -1,7 +1,7 @@
 2024-08-07 - 21:38
 Status:
-Tags: [[NLP]]
-# SpellChecker
+Tags: [[NLP]] [[Data Science]]
+# Spell Checker
 
 The `SpellChecker` Python library is used for detecting and correcting misspelled words in a text. It is simple to use and can be easily integrated into various text processing tasks.
 ### Code Example
